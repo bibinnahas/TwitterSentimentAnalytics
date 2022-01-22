@@ -1,0 +1,4 @@
+textblob~=0.17.1
+tweepy~=3.9.0
+py4j~=0.10.9.2
+setuptools~=49.2.1
