@@ -3,7 +3,7 @@ import socket
 
 from tweepy import StreamListener, OAuthHandler, Stream
 
-from twitter_get_credentials import consumer_key, consumer_secret, access_token, access_secret
+from twitter.credentials.twitter_get_credentials import *
 
 
 class TweetsListener(StreamListener):
